@@ -1,0 +1,4 @@
+git init
+git add name of the file
+git status
+git log to check changes made
