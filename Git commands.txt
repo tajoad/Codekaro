@@ -7,3 +7,6 @@ git diff to see the difference
 git reset --soft <log code> to remove from git commit
 git branch <name>
 git checkout <name>
+git remote add origin <repository url>
+git branch -M main
+git push to push a file
