@@ -2,4 +2,8 @@ git init
 git add name of the file
 git status
 git log to check changes made
-git reset --hard <log code>to go back
+git reset --hard <log code>to remove the file totally
+git diff to see the difference
+git reset --soft <log code> to remove from git commit
+git branch <name>
+git checkout <name>
