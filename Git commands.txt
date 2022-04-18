@@ -2,3 +2,4 @@ git init
 git add name of the file
 git status
 git log to check changes made
+git reset --hard <log code>to go back
